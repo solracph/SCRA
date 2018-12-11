@@ -8465,11 +8465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Work\\A5-Material\\Git\\SCRA.Core.WebAPI\\SCRA.Core.WebAPI.csproj",
+      "projectUniqueName": "D:\\Work\\A5-Material\\SCRA\\SCRA.Core.WebAPI\\SCRA.Core.WebAPI.csproj",
       "projectName": "SCRA.Core.WebAPI",
-      "projectPath": "D:\\Work\\A5-Material\\Git\\SCRA.Core.WebAPI\\SCRA.Core.WebAPI.csproj",
+      "projectPath": "D:\\Work\\A5-Material\\SCRA\\SCRA.Core.WebAPI\\SCRA.Core.WebAPI.csproj",
       "packagesPath": "C:\\Users\\CEPEREZ\\.nuget\\packages\\",
-      "outputPath": "D:\\Work\\A5-Material\\Git\\SCRA.Core.WebAPI\\obj\\",
+      "outputPath": "D:\\Work\\A5-Material\\SCRA\\SCRA.Core.WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -8491,14 +8491,14 @@
       "frameworks": {
         "net471": {
           "projectReferences": {
-            "D:\\Work\\A5-Material\\Git\\SCRA.Common\\SCRA.Common.csproj": {
-              "projectPath": "D:\\Work\\A5-Material\\Git\\SCRA.Common\\SCRA.Common.csproj"
+            "D:\\Work\\A5-Material\\SCRA\\SCRA.Common\\SCRA.Common.csproj": {
+              "projectPath": "D:\\Work\\A5-Material\\SCRA\\SCRA.Common\\SCRA.Common.csproj"
             },
-            "D:\\Work\\A5-Material\\Git\\SCRA.Domain\\SCRA.Domain.csproj": {
-              "projectPath": "D:\\Work\\A5-Material\\Git\\SCRA.Domain\\SCRA.Domain.csproj"
+            "D:\\Work\\A5-Material\\SCRA\\SCRA.Domain\\SCRA.Domain.csproj": {
+              "projectPath": "D:\\Work\\A5-Material\\SCRA\\SCRA.Domain\\SCRA.Domain.csproj"
             },
-            "D:\\Work\\A5-Material\\Git\\SCRA.Framework\\SCRA.Framework.csproj": {
-              "projectPath": "D:\\Work\\A5-Material\\Git\\SCRA.Framework\\SCRA.Framework.csproj"
+            "D:\\Work\\A5-Material\\SCRA\\SCRA.Framework\\SCRA.Framework.csproj": {
+              "projectPath": "D:\\Work\\A5-Material\\SCRA\\SCRA.Framework\\SCRA.Framework.csproj"
             }
           }
         }

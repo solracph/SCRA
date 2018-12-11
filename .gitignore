@@ -1,0 +1,9 @@
+.vs/SCRA/DesignTimeBuild/.dtbcache
+.vs/SCRA/v15/.suo
+.vs/SCRA/v15/Server/sqlite3/db.lock
+.vs/SCRA/v15/Server/sqlite3/storage.ide
+.vs/SCRA/v15/Server/sqlite3/storage.ide-shm
+.vs/SCRA/v15/Server/sqlite3/storage.ide-wal
+.vs/config/applicationhost.config
+SCRA.Core.WebAPI/obj/Debug/net471/
+SCRA.Common/obj/Debug/
