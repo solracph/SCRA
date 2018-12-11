@@ -1,0 +1,17 @@
+D:\Work\A5-Material\Git\SCRA.Data\bin\Debug\SCRA.Data.dll
+D:\Work\A5-Material\Git\SCRA.Data\bin\Debug\SCRA.Data.pdb
+D:\Work\A5-Material\Git\SCRA.Data\bin\Debug\EntityFramework.dll
+D:\Work\A5-Material\Git\SCRA.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Work\A5-Material\Git\SCRA.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Work\A5-Material\Git\SCRA.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Work\A5-Material\Git\SCRA.Data\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\Work\A5-Material\Git\SCRA.Data\bin\Debug\Microsoft.Owin.dll
+D:\Work\A5-Material\Git\SCRA.Data\bin\Debug\SCRA.Common.dll
+D:\Work\A5-Material\Git\SCRA.Data\bin\Debug\SCRA.Domain.dll
+D:\Work\A5-Material\Git\SCRA.Data\bin\Debug\SCRA.Common.pdb
+D:\Work\A5-Material\Git\SCRA.Data\bin\Debug\SCRA.Domain.pdb
+D:\Work\A5-Material\Git\SCRA.Data\obj\Debug\SCRA.Data.csprojAssemblyReference.cache
+D:\Work\A5-Material\Git\SCRA.Data\obj\Debug\SCRA.Data.csproj.CoreCompileInputs.cache
+D:\Work\A5-Material\Git\SCRA.Data\obj\Debug\SCRA.Data.csproj.CopyComplete
+D:\Work\A5-Material\Git\SCRA.Data\obj\Debug\SCRA.Data.dll
+D:\Work\A5-Material\Git\SCRA.Data\obj\Debug\SCRA.Data.pdb

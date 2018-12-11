@@ -1,0 +1,7 @@
+D:\Work\A5-Material\Git\SCRA.Core.WebAPI\obj\Debug\net461\SCRA.Core.WebAPI.csprojAssemblyReference.cache
+D:\Work\A5-Material\Git\SCRA.Core.WebAPI\obj\Debug\net461\SCRA.Core.WebAPI.exe.config
+D:\Work\A5-Material\Git\SCRA.Core.WebAPI\obj\Debug\net461\SCRA.Core.WebAPI.csproj.CoreCompileInputs.cache
+D:\Work\A5-Material\Git\SCRA.Core.WebAPI\obj\Debug\net461\SCRA.Core.WebAPI.RazorAssemblyInfo.cache
+D:\Work\A5-Material\Git\SCRA.Core.WebAPI\obj\Debug\net461\SCRA.Core.WebAPI.RazorAssemblyInfo.cs
+D:\Work\A5-Material\Git\SCRA.Core.WebAPI\obj\Debug\net461\SCRA.Core.WebAPI.AssemblyInfoInputs.cache
+D:\Work\A5-Material\Git\SCRA.Core.WebAPI\obj\Debug\net461\SCRA.Core.WebAPI.AssemblyInfo.cs

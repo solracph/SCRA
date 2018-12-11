@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "d:\\Work\\A5-Material\\SCRA\\SCRA.Core.WebAPI\\SCRA.Core.WebAPI.csproj",
+  "TargetFramework": "net471",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "MVC-2.1",
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.1"
+      }
+    ]
+  }
+}

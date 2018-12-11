@@ -1,0 +1,6 @@
+D:\Work\A5-Material\Git\SCRA.Common\bin\Debug\SCRA.Common.dll
+D:\Work\A5-Material\Git\SCRA.Common\bin\Debug\SCRA.Common.pdb
+D:\Work\A5-Material\Git\SCRA.Common\obj\Debug\SCRA.Common.csprojAssemblyReference.cache
+D:\Work\A5-Material\Git\SCRA.Common\obj\Debug\SCRA.Common.csproj.CoreCompileInputs.cache
+D:\Work\A5-Material\Git\SCRA.Common\obj\Debug\SCRA.Common.dll
+D:\Work\A5-Material\Git\SCRA.Common\obj\Debug\SCRA.Common.pdb

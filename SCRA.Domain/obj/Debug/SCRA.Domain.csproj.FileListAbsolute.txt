@@ -1,0 +1,11 @@
+D:\Work\A5-Material\Git\SCRA.Domain\bin\Debug\SCRA.Domain.dll
+D:\Work\A5-Material\Git\SCRA.Domain\bin\Debug\SCRA.Domain.pdb
+D:\Work\A5-Material\Git\SCRA.Domain\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Work\A5-Material\Git\SCRA.Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Work\A5-Material\Git\SCRA.Domain\bin\Debug\SCRA.Common.dll
+D:\Work\A5-Material\Git\SCRA.Domain\bin\Debug\SCRA.Common.pdb
+D:\Work\A5-Material\Git\SCRA.Domain\obj\Debug\SCRA.Domain.csprojAssemblyReference.cache
+D:\Work\A5-Material\Git\SCRA.Domain\obj\Debug\SCRA.Domain.csproj.CoreCompileInputs.cache
+D:\Work\A5-Material\Git\SCRA.Domain\obj\Debug\SCRA.Domain.csproj.CopyComplete
+D:\Work\A5-Material\Git\SCRA.Domain\obj\Debug\SCRA.Domain.dll
+D:\Work\A5-Material\Git\SCRA.Domain\obj\Debug\SCRA.Domain.pdb
